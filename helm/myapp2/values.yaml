@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: baymax56/myapp2
-  tag: 0.0.1
+  tag: 0.0.4
   pullPolicy: Always
 
 service:
